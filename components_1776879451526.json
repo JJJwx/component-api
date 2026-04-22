@@ -1,0 +1,161 @@
+[
+  {
+    "id": "top_notification_bar_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "页面顶部通知条",
+    "组件描述": "页面顶部显示重要通知",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "适合全局提示，支持关闭按钮",
+    "典型案例": "https://example.com/case1.png",
+    "Figma": "https://www.figma.com/design/CBQKBDLu5aN87bycBA1kcn/%E2%99%A6%EF%B8%8F-AI%E5%B9%B3%E5%8F%B0-Variants?node-id=260-14200&t=FtGtScCUKxSvoJ4S-1",
+    "前端效果": "https://ai-material.bytedance.net/components/feedback/Banner#banner",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"通知\"",
+      "\"顶部\"",
+      "\"页面\"]"
+    ]
+  },
+  {
+    "id": "qr_login_component_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "二维码扫码登录组件",
+    "组件描述": "用于扫码登录功能",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "支持移动端扫码登录，提示扫码步骤",
+    "典型案例": "https://example.com/case2.png",
+    "Figma": "https://www.figma.com/design/kInR2RT8EY4QeK973cHI0H/%F0%9F%9A%80-%E5%8F%91%E5%B8%83%E6%B8%A0%E9%81%93?node-id=3611-90112&t=lr94VB8p9VoNwen6-1",
+    "前端效果": "",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"登录\"",
+      "\"扫码\"",
+      "\"二维码\"]"
+    ]
+  },
+  {
+    "id": "list_filter_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "纵向筛选器",
+    "组件描述": "支持列表数据过滤和筛选",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "筛选项较多，且需要外显选项的场景",
+    "典型案例": "https://example.com/case3.png",
+    "Figma": "https://www.figma.com/design/CBQKBDLu5aN87bycBA1kcn/%E2%99%A6%EF%B8%8F-AI%E5%B9%B3%E5%8F%B0-Variants?node-id=8857-15447&t=FtGtScCUKxSvoJ4S-1",
+    "前端效果": "https://ai-material.bytedance.net/components/biz/Filter#filter",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"筛选\"",
+      "\"分布式筛选\"",
+      "\"纵项筛选\"",
+      "\"竖向筛选\"",
+      "\"组件\"]"
+    ]
+  },
+  {
+    "id": "form_submit_button_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "AI按钮",
+    "组件描述": "用于提交表单动作",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "支持 loading 状态，避免重复提交",
+    "典型案例": "https://example.com/case4.png",
+    "Figma": "",
+    "前端效果": "https://ai-material.bytedance.net/components/basic/Button#%E6%B8%90%E5%8F%98%E4%B8%BB%E9%A2%98",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"AI\"",
+      "\"彩色\"",
+      "\"帮写\"",
+      "\"帮建\"",
+      "\"表单\"",
+      "\"按钮\"",
+      "\"生成\"]"
+    ]
+  },
+  {
+    "id": "page_loading_animation_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "页面加载动画",
+    "组件描述": "页面加载时展示动画或骨架屏",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "动画不宜过长，支持取消",
+    "典型案例": "https://example.com/case5.png",
+    "Figma": "",
+    "前端效果": "https://ai-material.bytedance.net/components/show/Loading#loading",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"页面\"",
+      "\"加载\"",
+      "\"骨架屏\"",
+      "\"动画\"]"
+    ]
+  },
+  {
+    "id": "empty_list_placeholder_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "列表为空展示",
+    "组件描述": "列表无数据时的占位组件",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "提示用户无数据，可加操作按钮",
+    "典型案例": "https://example.com/case6.png",
+    "Figma": "",
+    "前端效果": "https://ai-material.bytedance.net/components/show/Empty#empty",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"列表\"",
+      "\"空状态\"",
+      "\"占位\"]"
+    ]
+  },
+  {
+    "id": "date_picker_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "日期选择器组件",
+    "组件描述": "用于表单或筛选的日期选择",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "支持单选和范围选择",
+    "典型案例": "https://example.com/case7.png",
+    "Figma": "",
+    "前端效果": "https://ai-material.bytedance.net/components/input/DatePicker#datepicker",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"日期\"",
+      "\"选择器\"",
+      "\"组件\"]"
+    ]
+  },
+  {
+    "id": "delete_confirm_modal_v1",
+    "version": "1.0.0",
+    "updated_at": "2026-04-23T10:00:00Z",
+    "组件名称": "删除确认弹窗",
+    "组件描述": "用户执行删除操作时弹窗确认",
+    "效果图": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+    "使用建议": "支持自定义文字，防止误操作",
+    "典型案例": "https://example.com/case8.png",
+    "Figma": "",
+    "前端效果": "https://ai-material.bytedance.net/components/feedback/Popconfirm#%E7%B1%BB%E5%9E%8B%E6%90%AD%E9%85%8D",
+    "维护人": "AI平台设计师",
+    "更新时间": "2026/4/23",
+    "tags": [
+      "[\"删除\"",
+      "\"确认\"",
+      "\"弹窗\"]"
+    ]
+  }
+]
